@@ -9,6 +9,9 @@ Model Context Protocol.
 - 📦 **Packages** — [pub.dev/publishers/makemind.dev](https://pub.dev/publishers/makemind.dev/packages)
 - 📖 **Specifications** — [app-appplayer/specs](https://github.com/app-appplayer/specs)
 - 🌐 **Site** — [app-appplayer.github.io/makemind](https://app-appplayer.github.io/makemind)
+- 🧪 **Samples** — [github.com/makemind-academy](https://github.com/makemind-academy) · clone one, run `bash verify.sh`
+- 🎓 **Lessons** — [academy.makemind.dev](https://academy.makemind.dev)
+- 📰 **Magazine** — [makemind.dev](https://makemind.dev)
 
 ## The stack
 
